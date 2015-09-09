@@ -1,0 +1,10 @@
+CPU Freq Trace v1.0
+
+Author:Shun Terabayashi <shunonymous@gmail.com>
+
+License:Apache License v2.0
+
+Traceing CPU Frequency and save log file.
+
+This log file is saved as CSV format.
+
